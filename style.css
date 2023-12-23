@@ -252,7 +252,21 @@
     url("gallery/g3.jpg")
         no-repeat 50% 50% / cover;
   }
-  
+   .swiper-slide--four {
+    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
+    url("gallery/g1.jpg")
+        no-repeat 50% 50% / cover;
+  }
+ .swiper-slide--five {
+    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
+    url("gallery/g2.jpg")
+        no-repeat 50% 50% / cover;
+  }
+ .swiper-slide--six {
+    background: linear-gradient(to top, #0f2027, #203a4300, #2c536400),
+    url("gallery/g3.jpg")
+        no-repeat 50% 50% / cover;
+  }
  
 
   /* sponsors */
